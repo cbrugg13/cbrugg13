@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbrugg13
-- 👀 I’m interested in game development and modding
-- 🌱 I’m currently learning c++ and c#
+- 👀 I’m interested in programming, game development, and anyplace where I can dip my toes into!
+- 🌱 I’m currently learning Java and Object Oriented Programming
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 
